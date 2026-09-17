@@ -1,0 +1,26 @@
+# Environment / secrets
+.env
+
+# Virtual environment
+myenv/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Generated pipeline output
+output/
+logs/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

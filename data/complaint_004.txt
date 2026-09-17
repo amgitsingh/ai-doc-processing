@@ -1,0 +1,33 @@
+Customer Complaint Record
+==========================
+
+Customer Name: Michael O'Brien
+Email: m.obrien.dev@protonmail.com
+Phone: (555) 340-9912
+
+Product/Service: Team Workspace Account (Account ID: ACC-77410)
+
+Complaint Description:
+I have been locked out of my account since yesterday morning. Every login attempt
+says "Two-factor authentication failed" even though I am entering the correct code
+from my authenticator app. I have important project deadlines this week and need
+access restored urgently.
+
+Issue Details:
+- Account locked after 3 failed 2FA attempts on March 14th, 2026
+- Authenticator app codes appear to be out of sync with the server
+- Password reset was already attempted and did not resolve the issue
+- Customer manages 4 other team members under this workspace
+
+Resolution Provided:
+Support engineer manually verified the customer's identity via backup email and
+reset the 2FA configuration. Customer was able to re-enroll a new authenticator
+device and regained access on March 14th, 2026, roughly 6 hours after the initial
+report.
+
+Escalation Notes:
+Not escalated. Resolved within the standard account recovery process, though
+flagged internally for a possible clock-drift bug in the 2FA verification service.
+
+Supporting Information:
+None provided by customer.

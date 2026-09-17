@@ -1,0 +1,19 @@
+{
+    "llm": {
+        "openai_model": "gpt-4o-mini",
+        "gemini_model": "gemini-1.5-flash",
+        "temperature": 0.3
+    },
+
+    "classification": {
+        "labels": [
+            "billing",
+            "product_defect",
+            "service_delay",
+            "account_access",
+            "shipping_delivery",
+            "technical_issue",
+            "other"
+        ]
+    }
+}

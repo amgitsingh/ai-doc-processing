@@ -1,0 +1,32 @@
+Customer Complaint Record
+==========================
+
+Customer Name: Sarah Thompson
+Email: sarah.thompson82@gmail.com
+Phone: (555) 213-4487
+
+Product/Service: Premium Subscription Plan (Order #INV-88213)
+
+Complaint Description:
+I was charged twice for my monthly premium subscription on March 3rd, 2026. My bank
+statement shows two separate charges of $49.99 within the same day, but I only have
+one active subscription. I have already contacted my bank and they confirmed both
+charges came from your company.
+
+Issue Details:
+- Duplicate charge of $49.99 on March 3rd, 2026
+- Only one subscription account is active under my email
+- This has never happened in the 8 months I've been a customer
+
+Resolution Provided:
+Support agent Jordan reviewed the billing history and confirmed the duplicate charge
+was caused by a payment retry error on our end. A refund of $49.99 was processed to
+the original payment method on March 5th, 2026 and should appear within 5-7 business
+days.
+
+Escalation Notes:
+Not escalated. Resolved directly by the billing support team.
+
+Supporting Information:
+Customer provided a screenshot of their bank statement showing both charges
+(reference: attachment_bank_statement.png, not included in this text record).
